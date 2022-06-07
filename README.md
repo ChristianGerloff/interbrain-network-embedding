@@ -1,6 +1,6 @@
 [![Python 3.8.8+](https://img.shields.io/badge/python-3.8.8+-blue.svg)](https://www.python.org/downloads/)
 [![BSD-4-Clause](https://img.shields.io/github/license/ChristianGerloff/interbrain-network-embedding)](https://img.shields.io/github/license/ChristianGerloff/interbrain-network-embedding)
-[![DOI](https://img.shields.io/badge/DOI-10.1002/hbm.25966)](https://doi.org/10.1002/hbm.25966)
+[![DOI: 10.1002/hbm.25966](https://img.shields.io/badge/DOI-10.1002%2Fhbm.25966-blue)](https://doi.org/10.1002/hbm.25966)
 
 # Demo of "Interacting brains revisited: A cross-brain network neuroscience perspective"
 
