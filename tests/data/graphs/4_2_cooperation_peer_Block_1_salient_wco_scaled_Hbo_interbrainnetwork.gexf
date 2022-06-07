@@ -1,0 +1,342 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2022-05-18">
+    <creator>NetworkX 2.8</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <attributes mode="static" class="node">
+      <attribute id="0" title="bipartite" type="long" />
+    </attributes>
+    <nodes>
+      <node id="C_1" label="C_1">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_2" label="C_2">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_3" label="C_3">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_4" label="C_4">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_5" label="C_5">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_6" label="C_6">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_7" label="C_7">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_8" label="C_8">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_10" label="C_10">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_11" label="C_11">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_12" label="C_12">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_13" label="C_13">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_14" label="C_14">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_15" label="C_15">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_16" label="C_16">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_17" label="C_17">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_18" label="C_18">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_19" label="C_19">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_20" label="C_20">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_21" label="C_21">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="C_22" label="C_22">
+        <attvalues>
+          <attvalue for="0" value="0" />
+        </attvalues>
+      </node>
+      <node id="P_1" label="P_1">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_2" label="P_2">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_3" label="P_3">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_4" label="P_4">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_5" label="P_5">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_6" label="P_6">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_7" label="P_7">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_8" label="P_8">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_10" label="P_10">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_11" label="P_11">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_12" label="P_12">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_13" label="P_13">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_14" label="P_14">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_15" label="P_15">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_16" label="P_16">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_17" label="P_17">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_18" label="P_18">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_19" label="P_19">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_20" label="P_20">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_21" label="P_21">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+      <node id="P_22" label="P_22">
+        <attvalues>
+          <attvalue for="0" value="1" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge source="C_1" target="P_2" id="0" weight="0.36950174810270914" />
+      <edge source="C_1" target="P_3" id="1" weight="0.4561936744463138" />
+      <edge source="C_1" target="P_4" id="2" weight="0.42166233480675724" />
+      <edge source="C_1" target="P_8" id="3" weight="0.5628650692232866" />
+      <edge source="C_1" target="P_10" id="4" weight="0.484818889936066" />
+      <edge source="C_1" target="P_22" id="5" weight="0.41590019039188575" />
+      <edge source="C_2" target="P_8" id="6" weight="0.3548525977918096" />
+      <edge source="C_2" target="P_10" id="7" weight="0.4685149558052682" />
+      <edge source="C_2" target="P_11" id="8" weight="0.5069811293529671" />
+      <edge source="C_2" target="P_12" id="9" weight="0.21987353257852732" />
+      <edge source="C_2" target="P_15" id="10" weight="0.41053452060487944" />
+      <edge source="C_2" target="P_17" id="11" weight="0.3273156037428304" />
+      <edge source="C_3" target="P_2" id="12" weight="0.48497823371204174" />
+      <edge source="C_3" target="P_8" id="13" weight="0.35742920263749595" />
+      <edge source="C_3" target="P_13" id="14" weight="0.4005309820070263" />
+      <edge source="C_3" target="P_17" id="15" weight="0.35370299867521826" />
+      <edge source="C_4" target="P_10" id="16" weight="0.4245130387907793" />
+      <edge source="C_4" target="P_12" id="17" weight="0.4631333382195502" />
+      <edge source="C_4" target="P_13" id="18" weight="0.14215115225546282" />
+      <edge source="C_4" target="P_15" id="19" weight="0.4788725176825837" />
+      <edge source="C_4" target="P_19" id="20" weight="0.4220588387879185" />
+      <edge source="C_5" target="P_1" id="21" weight="0.3767808209515988" />
+      <edge source="C_5" target="P_2" id="22" weight="0.3910190887028606" />
+      <edge source="C_5" target="P_8" id="23" weight="0.4490434823911482" />
+      <edge source="C_5" target="P_10" id="24" weight="0.47419643350808227" />
+      <edge source="C_5" target="P_20" id="25" weight="0.40738876644202293" />
+      <edge source="C_6" target="P_1" id="26" weight="0.18300424965783774" />
+      <edge source="C_6" target="P_2" id="27" weight="0.255076030278792" />
+      <edge source="C_6" target="P_3" id="28" weight="0.3633872873886859" />
+      <edge source="C_6" target="P_17" id="29" weight="0.5177470396927011" />
+      <edge source="C_6" target="P_18" id="30" weight="0.3953135337778201" />
+      <edge source="C_6" target="P_20" id="31" weight="0.334528680999873" />
+      <edge source="C_6" target="P_21" id="32" weight="0.43289044319035785" />
+      <edge source="C_6" target="P_22" id="33" weight="0.3694937468753841" />
+      <edge source="C_7" target="P_2" id="34" weight="0.3859275025224974" />
+      <edge source="C_7" target="P_4" id="35" weight="0.4186597377898435" />
+      <edge source="C_7" target="P_8" id="36" weight="0.45645057902773156" />
+      <edge source="C_7" target="P_19" id="37" weight="0.3606592774943788" />
+      <edge source="C_7" target="P_20" id="38" weight="0.256684302353437" />
+      <edge source="C_8" target="P_3" id="39" weight="0.3811172390141422" />
+      <edge source="C_8" target="P_6" id="40" weight="0.3798815970252457" />
+      <edge source="C_8" target="P_7" id="41" weight="0.4113076914629309" />
+      <edge source="C_8" target="P_10" id="42" weight="0.5052389550526377" />
+      <edge source="C_8" target="P_11" id="43" weight="0.3901760454440725" />
+      <edge source="C_8" target="P_14" id="44" weight="0.28539557436666435" />
+      <edge source="C_8" target="P_15" id="45" weight="0.3554125654718822" />
+      <edge source="C_10" target="P_2" id="46" weight="0.29865351659195494" />
+      <edge source="C_10" target="P_3" id="47" weight="0.2370365606105646" />
+      <edge source="C_10" target="P_4" id="48" weight="0.326829977174807" />
+      <edge source="C_10" target="P_6" id="49" weight="0.4559223144554393" />
+      <edge source="C_10" target="P_16" id="50" weight="0.3883772469345904" />
+      <edge source="C_10" target="P_18" id="51" weight="0.40254087374945685" />
+      <edge source="C_11" target="P_7" id="52" weight="0.31343484507885594" />
+      <edge source="C_11" target="P_8" id="53" weight="0.30418573054115317" />
+      <edge source="C_11" target="P_12" id="54" weight="0.45250769928503926" />
+      <edge source="C_11" target="P_14" id="55" weight="0.47541815521816555" />
+      <edge source="C_11" target="P_21" id="56" weight="0.3098282729393137" />
+      <edge source="C_12" target="P_4" id="57" weight="0.3473842720671962" />
+      <edge source="C_12" target="P_5" id="58" weight="0.3782439209200132" />
+      <edge source="C_12" target="P_8" id="59" weight="0.45308484287500994" />
+      <edge source="C_12" target="P_13" id="60" weight="0.39515703807078495" />
+      <edge source="C_12" target="P_16" id="61" weight="0.5005336774195864" />
+      <edge source="C_12" target="P_20" id="62" weight="0.2788793800285305" />
+      <edge source="C_12" target="P_22" id="63" weight="0.38413934328570204" />
+      <edge source="C_13" target="P_2" id="64" weight="0.49510648366904436" />
+      <edge source="C_13" target="P_11" id="65" weight="0.5279519864987963" />
+      <edge source="C_13" target="P_18" id="66" weight="0.39594946701424993" />
+      <edge source="C_14" target="P_13" id="67" weight="0.5111031246525138" />
+      <edge source="C_14" target="P_17" id="68" weight="0.3399758481976959" />
+      <edge source="C_14" target="P_18" id="69" weight="0.34024302998705097" />
+      <edge source="C_14" target="P_20" id="70" weight="0.2808595702586403" />
+      <edge source="C_15" target="P_3" id="71" weight="0.4390641299288541" />
+      <edge source="C_15" target="P_4" id="72" weight="0.3788007345918402" />
+      <edge source="C_15" target="P_7" id="73" weight="0.11726939922771362" />
+      <edge source="C_15" target="P_13" id="74" weight="0.3207191258441814" />
+      <edge source="C_15" target="P_14" id="75" weight="0.270842403403952" />
+      <edge source="C_15" target="P_19" id="76" weight="0.3263004871106553" />
+      <edge source="C_15" target="P_20" id="77" weight="0.48837790051689367" />
+      <edge source="C_15" target="P_22" id="78" weight="0.36846144571086664" />
+      <edge source="C_16" target="P_7" id="79" weight="0.3077226379532842" />
+      <edge source="C_16" target="P_11" id="80" weight="0.29737962808274737" />
+      <edge source="C_16" target="P_20" id="81" weight="0.35208402444071824" />
+      <edge source="C_16" target="P_22" id="82" weight="0.26719884563719043" />
+      <edge source="C_17" target="P_4" id="83" weight="0.4877860138270688" />
+      <edge source="C_17" target="P_6" id="84" weight="0.3829127635552142" />
+      <edge source="C_17" target="P_7" id="85" weight="0.2871086008729696" />
+      <edge source="C_17" target="P_12" id="86" weight="0.34427943626854307" />
+      <edge source="C_17" target="P_13" id="87" weight="0.40016473963642524" />
+      <edge source="C_17" target="P_14" id="88" weight="0.31967843218428893" />
+      <edge source="C_17" target="P_15" id="89" weight="0.43292188721646313" />
+      <edge source="C_17" target="P_16" id="90" weight="0.3866749630964951" />
+      <edge source="C_17" target="P_17" id="91" weight="0.43009440747875194" />
+      <edge source="C_17" target="P_19" id="92" weight="0.3142596143615731" />
+      <edge source="C_17" target="P_21" id="93" weight="0.2630805683282497" />
+      <edge source="C_18" target="P_3" id="94" weight="0.4953460399594545" />
+      <edge source="C_18" target="P_5" id="95" weight="0.2814898190525562" />
+      <edge source="C_18" target="P_6" id="96" weight="0.4888652247917044" />
+      <edge source="C_18" target="P_19" id="97" weight="0.3108746141812396" />
+      <edge source="C_19" target="P_2" id="98" weight="0.35933769420667433" />
+      <edge source="C_19" target="P_3" id="99" weight="0.3045422252894564" />
+      <edge source="C_19" target="P_5" id="100" weight="0.536977343666727" />
+      <edge source="C_19" target="P_20" id="101" weight="0.2591924953059533" />
+      <edge source="C_20" target="P_5" id="102" weight="0.5434656064720018" />
+      <edge source="C_20" target="P_6" id="103" weight="0.3914331408978792" />
+      <edge source="C_20" target="P_11" id="104" weight="0.447786129962522" />
+      <edge source="C_20" target="P_13" id="105" weight="0.34115508943711587" />
+      <edge source="C_20" target="P_15" id="106" weight="0.34140262164792534" />
+      <edge source="C_20" target="P_16" id="107" weight="0.31478387379020006" />
+      <edge source="C_20" target="P_17" id="108" weight="0.4622422618615655" />
+      <edge source="C_21" target="P_4" id="109" weight="0.30772609261255834" />
+      <edge source="C_21" target="P_10" id="110" weight="0.15910241293350053" />
+      <edge source="C_21" target="P_13" id="111" weight="0.42841397198684267" />
+      <edge source="C_21" target="P_14" id="112" weight="0.3794092491066161" />
+      <edge source="C_21" target="P_20" id="113" weight="0.28672630442689173" />
+      <edge source="C_22" target="P_7" id="114" weight="0.4914446538780604" />
+      <edge source="C_22" target="P_12" id="115" weight="0.4389619743807602" />
+      <edge source="C_22" target="P_15" id="116" weight="0.42872028968590814" />
+    </edges>
+  </graph>
+</gexf>

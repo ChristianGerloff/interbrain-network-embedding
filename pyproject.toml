@@ -1,0 +1,26 @@
+[tool.poetry]
+name = "interbrain"
+version = "0.1.0"
+description = "Scripts corresponding to the interbrain networks paper"
+authors = ["Christan Gerloff <christian.gerloff@rwth-aachen.de>"]
+license = "BSD-4-Clause"
+
+[tool.poetry.dependencies]
+python = ">=3.8.8,<3.11"
+numpy = "^1.22.3"
+pandas = "^1.4.2"
+atlasreader = "^0.1.2"
+pyarrow = "^7.0.0"
+dask = "^2022.5.0"
+seaborn = "^0.11.2"
+ipykernel = "^6.13.1"
+
+[tool.poetry.dev-dependencies]
+autopep8 = "^1.6.0"
+flake8 = "^4.0.1"
+pytest = "^7.1.1"
+pytest-cov = "^3.0.0"
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"

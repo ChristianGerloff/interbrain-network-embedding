@@ -11,7 +11,7 @@ This repository is a demo for the interbrain networks and embedding method descr
 
 ## <a id='overview'></a> Overview:
 
-  The paper posits a comprehensive analytical framework for inference and prediction based on bipartite interbrain graphs and shows the general topological properties of interbrain networks. The proposed embedding in the paper provides a method to study interpersonal synchrony for inferential inquiries and prediction on individual level. This repository illustrates the generation of interbrain networks and the interbrain network embedding. The proposed frameworks comes with the following benefits:
+  The paper posits a comprehensive analytical framework for inference and prediction based on bipartite interbrain graphs and shows the general topological properties of interbrain networks. The proposed embedding in the paper provides a method to study interpersonal synchrony for inferential inquiries and prediction on individual level. This repository illustrates the generation of interbrain networks and the interbrain network embedding. The proposed framework comes with the following benefits:
 
 *   interpretable: yields both global and region-specific insight (which regions seed  interpersonal neural synchrony)
 *   accounts for uncertainty in channel localization
